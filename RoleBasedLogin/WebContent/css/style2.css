@@ -1,0 +1,59 @@
+Body{
+	text-align: center;
+}
+
+h2{
+	color:red;
+}
+
+.form{
+	width:200px;
+	height:350px;
+	margin-top:200px;
+	margin-left:430px;
+  	width: 40%;
+  	background-color:#d6d5d4;
+  	border: 3px solid black;
+  	padding: 10px;
+}
+.name{
+	padding:20px;
+	font-size:18px;
+	color:black;
+}
+
+.name1{
+	padding:15px;
+	font-size:18px;
+	color:black;
+}
+.name2{
+	padding:15px;
+	font-size:18px;
+	color:black;
+}
+.name3{
+	padding:15px;
+	font-size:18px;
+	color:black;
+}
+
+.input{
+	padding:8px ;
+	width:250px;
+	background-color:black;
+	color:white;
+}
+
+
+.btn{
+	padding:10px 70px;
+	background-color:red;
+	border:1px solid white;
+	color:white;
+	margin-right:130px;
+}
+
+.btn:hover{
+	background-color:blue;
+}
